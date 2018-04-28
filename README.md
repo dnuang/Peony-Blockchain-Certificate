@@ -1,7 +1,7 @@
 # Peony
 A multi-purposes certificate contract platform on ethereum 
 
-Problems to solve: People might lie about having certificates. Also, schools, governments or any entity want to mitigate fraudulent certificates. We create a platform allowing schools or governments to issue certificates, making the certificates credible in a transparent and frad-preventing way.
+- Problems to solve: People might lie about having certificates. Also, schools, governments or any entity want to mitigate fraudulent certificates. We create a platform allowing schools or governments to issue certificates, making the certificates credible in a transparent and frad-preventing way.
 
 - Platform will be called as Peony
 - Token will be named "Petal"  with symbol of "PTL"
